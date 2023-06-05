@@ -1,0 +1,10 @@
+Id;Imie;Nazwisko;Ilosc punktow;Stan studenta;Rok urodzenia
+1;Jakub;Sowa;10.0;obecny;2001
+2;Jan;Kowalski;5.0;nieobecny;2000
+3;Anna;Kowalska;21.0;chory;1998
+1;Jakub;Sowa;10.0;obecny;2001
+2;Jan;Kowalski;5.0;nieobecny;2000
+3;Anna;Kowalska;21.0;chory;1998
+1;Andrzej;Sowa;10.0;obecny;2001
+2;Pawel;Kowalski;5.0;nieobecny;2000
+3;Jacek;Kowalski;21.0;chory;1998
